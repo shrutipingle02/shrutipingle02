@@ -20,7 +20,7 @@ Hello, I'm Shruti 👋
 
 ## About Me
 
-I'm a Data Analyst based in the **United States** with hands-on experience in **SQL, Python, Power BI, and Excel.**- I build the pipelines, dashboards and reports that operations teams actually rely on.
+I'm a Data Analyst based in the **United States** with hands-on experience in **SQL, Python, Power BI and Excel.**- I build the pipelines, dashboards and reports that operations teams actually rely on.
 
 My work spans MIS reporting, operational analytics and end-to-end data workflows where I've delivered measurable impact across multiple analytics roles. I work best when the problem is messy and the stakes are real. I own the full journey from raw data to business recommendation, not just building charts.
 
